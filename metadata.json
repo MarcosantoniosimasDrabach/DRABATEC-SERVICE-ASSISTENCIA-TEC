@@ -1,0 +1,6 @@
+{
+  "name": "Drabatec Service",
+  "description": "Sistema Integrado de Gestão e Assistência Técnica Drabatec Service",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
